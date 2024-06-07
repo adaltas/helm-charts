@@ -1,7 +1,7 @@
 [submodule "adaltas-kafka"]
 	path = .kafka
-	url = https://github.com/adaltas/helm-charts-kafka.git
+	url = https://github.com/adaltas/helm-charts-kafka
 [submodule "kafbat"]
 	path = .kafbat
-	url = https://github.com/kafbat/helm-charts.git
+	url = https://github.com/kafbat/helm-charts
 	branch = gh-pages
